@@ -2,6 +2,8 @@
 
 This repository contains a simple Python script that validates medical record data using predefined rules.
 
+> Lab project from freeCodeCamp.org
+
 ## Description
 
 `Medical Data Validator.py` verifies that a list of medical records follows a consistent structure and value format. It checks each record for required fields, correct data types, and valid content patterns.
